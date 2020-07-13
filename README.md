@@ -16,6 +16,7 @@ Email Address []:abdi-cool@gmail.com
 
 ### paste your csr in your ssl certificate provider
 ##### Note: 
+- save your key and csr files
 - You are not required to enter a password or passphrase
 - for ssl wildcard *.abdidarmawan.com , for non wildcard www.abdidarmawan.com
 - for verification provider will send via email (admin@domain.com,administrator@domain.com) or via CNAME we add record in our dns
