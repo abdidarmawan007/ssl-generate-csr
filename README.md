@@ -1,4 +1,4 @@
-## The following instructions will guide you through the CSR generation process with openssl
+### The following instructions will guide you through the CSR generation process with openssl
 
 ### create crs with openssl
 ```
@@ -13,3 +13,4 @@ Organizational Unit Name (eg, section) []:
 Common Name (e.g. server FQDN or YOUR name) []:abdidarmawan.com
 Email Address []:abdid-cool@gmail.com
 ```
+#### Note: You are not required to enter a password or passphrase
