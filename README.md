@@ -18,3 +18,4 @@ Email Address []:abdid-cool@gmail.com
 ##### Note: 
 - You are not required to enter a password or passphrase
 - for ssl wildcard *.abdidarmawan.com , for non wildcard www.abdidarmawan.com
+- for verification provider will send via email (admin@domain.com,dministrator@domain.com) or via CNAME we add record in our dns
