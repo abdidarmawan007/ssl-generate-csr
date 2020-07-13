@@ -13,6 +13,11 @@ Organizational Unit Name (eg, section) []:
 Common Name (e.g. server FQDN or YOUR name) []:*.abdidarmawan.com
 Email Address []:abdi-cool@gmail.com
 ```
+### check your crs correct
+```
+https://www.gogetssl.com/online-csr-decoder/
+```
+
 
 ### paste your csr in your ssl certificate provider
 ##### Note: 
