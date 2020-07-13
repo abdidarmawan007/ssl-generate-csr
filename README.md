@@ -11,7 +11,7 @@ Locality Name (eg, city) []:Keboon Jeruk
 Organization Name (eg, company) [Internet Widgits Pty Ltd]:Abdi Tech
 Organizational Unit Name (eg, section) []:
 Common Name (e.g. server FQDN or YOUR name) []:*.abdidarmawan.com
-Email Address []:abdid-cool@gmail.com
+Email Address []:abdi-cool@gmail.com
 ```
 
 ### paste your csr in your ssl certificate provider
