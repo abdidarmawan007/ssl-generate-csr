@@ -10,7 +10,11 @@ State or Province Name (full name) [Some-State]:Jakarta
 Locality Name (eg, city) []:Keboon Jeruk
 Organization Name (eg, company) [Internet Widgits Pty Ltd]:Abdi Tech
 Organizational Unit Name (eg, section) []:
-Common Name (e.g. server FQDN or YOUR name) []:abdidarmawan.com
+Common Name (e.g. server FQDN or YOUR name) []:*.abdidarmawan.com
 Email Address []:abdid-cool@gmail.com
 ```
-#### Note: You are not required to enter a password or passphrase
+
+### paste your csr in your ssl certificate provider
+##### Note: 
+- You are not required to enter a password or passphrase
+- for ssl wildcard *.abdidarmawan.com , for non wildcard www.abdidarmawan.com
