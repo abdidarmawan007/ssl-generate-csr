@@ -19,7 +19,7 @@ https://www.gogetssl.com/online-csr-decoder/
 ```
 
 
-### paste your csr in your ssl certificate provider
+### paste or send your csr in your ssl certificate provider
 ##### Note: 
 - save your key and csr files
 - You are not required to enter a password or passphrase
